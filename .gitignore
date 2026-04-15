@@ -1,0 +1,29 @@
+# 音频和安装包
+*.pdf
+*.wav
+*.whl
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook outputs
+*.png
